@@ -1,0 +1,7 @@
+c:\users\uko\documents\visual studio 2015\Projects\xD\xD\bin\Debug\xD.exe.config
+C:\Users\Uko\Documents\GitHub\LinqKodune\xD\bin\Debug\xD.exe.config
+C:\Users\Uko\Documents\GitHub\LinqKodune\xD\bin\Debug\xD.exe
+C:\Users\Uko\Documents\GitHub\LinqKodune\xD\bin\Debug\xD.pdb
+C:\Users\Uko\Documents\GitHub\LinqKodune\xD\obj\Debug\xD.csprojResolveAssemblyReference.cache
+C:\Users\Uko\Documents\GitHub\LinqKodune\xD\obj\Debug\xD.exe
+C:\Users\Uko\Documents\GitHub\LinqKodune\xD\obj\Debug\xD.pdb
